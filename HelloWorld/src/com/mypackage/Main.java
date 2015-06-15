@@ -6,10 +6,10 @@ import org.apache.logging.log4j.Logger;
 public class Main {
 
 	static Logger logger = LogManager.getLogger(Main.class);
-	
+
 	public static void main(String[] args) {
 		
-		System.out.println("0.1");
+		System.out.println("0.2");
 		System.out.println("Hello World!");
 		
 		logger.info("Taki super projekt!");
